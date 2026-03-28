@@ -100,7 +100,7 @@ function App() {
   const [duration, setDuration] = useState({ years: 0, months: 0, days: 0, hours: 0, minutes: 0, seconds: 0 });
 
   useEffect(() => {
-    const startDate = new Date('2025-11-01T00:00:00');
+    const startDate = new Date('2025-10-01T00:00:00');
 
     const updateCounter = () => {
       const now = new Date();
