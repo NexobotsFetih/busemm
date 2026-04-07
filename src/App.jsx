@@ -187,7 +187,7 @@ function App() {
                 <span className="label">SN</span>
               </div>
             </div>
-            <span className="counter-label">Dür Devam Ediyor</span>
+            <span className="counter-label">Dir devam ediyorrrr</span>
           </div>
         </div>
       </section>
